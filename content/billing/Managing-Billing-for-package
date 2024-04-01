@@ -1,0 +1,17 @@
+[
+
+    { 
+
+     "Transfer" ("index_topic_1 address"  to  "index_topic_2 address" , 'Type' :'uint256")
+ “Token-USDT”
+  “Bep20”
+  "index_topic_1 _Address"
+“0x55d398326f99059fF775485246999027B3197955”
+    "index_topic_2 _Address"
+“0x7590284156ed96099e5a5840e0510c10cac8f226”
+'inputs': [],
+ ‘name’:’50000’,
+        'outputs': [{'internalType': 'uint256', 'name': '', 'type': 'uint256'}],
+        'stateMutability': 'view', 'type': 'function', 'constant': True
+    }
+]
